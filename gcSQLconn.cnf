@@ -1,0 +1,6 @@
+[client]
+host = 146.148.118.187
+database = testdb
+user = root
+password = lajt0rjan
+default-character-set = utf8
